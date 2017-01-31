@@ -41,13 +41,13 @@ Below you will find tools, apps and other resources that can help you become a m
 * [Wappalyzer](https://wappalyzer.com/) - Chrome extension that shows you what technologies a site uses behind the scenes.
 
 ### App Development
-* Kadira - Performance Monitoring Platform for Meteor
-* Node Security Platform | Home
-* Personal apps | Heroku
+* [Heroku](https://www.heroku.com/) - Free web application host.
+* [Kadira](https://kadira.io/) - Monitoring and performance optimization for meteor apps.
+* [Node Security Platform](https://nodesecurity.io/) - Continuous security monitoring for node apps.
 
 ### CSS
 * [Cubic Bezier](http://cubic-bezier.com) - Customize and then visualize cubic bezier css transitions.
-* What CSS prefixes should I use?
+* [What CSS to Prefix?](http://shouldiprefix.com/) - Determine what CSS properties need CSS prefixes for cross-broswer support.
 * Ink: Email CSS Inliner
 
 ### Browser Optimization
