@@ -46,6 +46,7 @@ Below you will find tools, apps and other resources that can help you become a m
 * [Google Fonts](https://fonts.google.com/) - One stop shop for finding and loading fonts for your site.
 
 ### Icons
+* [Fontawesome](http://fontawesome.io/) - Industry standard icon font.
 * [Fontastic](http://fontastic.me/) - Create custom icon fonts.
 * [Fontello](http://fontello.com/) - Create custom icon font packages with only the icons you need.
 * [AjaxLoad](http://ajaxload.info/) - Create loading spinner icons.
