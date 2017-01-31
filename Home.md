@@ -3,6 +3,9 @@
 ### [Tools of the Trade](https://github.com/joshuadavidson/West-Houston-FCC-Meetup/wiki/Tools-of-the-Trade)
 Come here for links to tools that make coding easier. Everything from color pickers, cubic bezier calculators, image compressors and more.
 
+### [IDEs](https://github.com/joshuadavidson/West-Houston-FCC-Meetup/wiki/IDEs)
+Links to popular IDEs as well as plugins for them.
+
 ### [Learning Resources](https://github.com/joshuadavidson/West-Houston-FCC-Meetup/wiki/Learning-Resources)
 This is the spot for learning resources external to FCC that have proved useful.
 
