@@ -1,3 +1,4 @@
+sudo: required
 script:
 - |
   git config user.name "joshuadavidson"
