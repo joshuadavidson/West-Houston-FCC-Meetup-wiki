@@ -48,11 +48,10 @@ Below you will find tools, apps and other resources that can help you become a m
 ### CSS
 * [Cubic Bezier](http://cubic-bezier.com) - Customize and then visualize cubic bezier css transitions.
 * [What CSS to Prefix?](http://shouldiprefix.com/) - Determine what CSS properties need CSS prefixes for cross-broswer support.
-* Ink: Email CSS Inliner
 
 ### Browser Optimization
-* Can I use... Support tables for HTML5, CSS3, etc
-* Mobile-Friendly Test
-* PageSpeed Insights
-* Free Broken Link Checker - checks your website for bad links / dead links online
-* Browserling - Live interactive cross-browser testing
+* [Can I Use](http://caniuse.com/) - Browser support tables for HTML5, CSS3, etc.
+* [Mobile-Friendly Test](https://search.google.com/search-console/mobile-friendly) - Google's mobile-friendly test
+* [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Learn what is slowing down your site and how to fix it.
+* [Online Broken Link Checker](http://brokenlinkcheck.com/broken-links.php) - Just as the name implies, checks for broken links on your site.
+* [Web Page Test](https://www.webpagetest.org/) - Comprehensive test of your overall site performance.
