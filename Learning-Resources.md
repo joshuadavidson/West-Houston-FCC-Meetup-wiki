@@ -39,5 +39,6 @@ Check out the training and general learning resources below to accelerate your l
 ### Online Training
 * [Codecademy](https://www.codecademy.com) - Free beginner interactive tutorials for many different coding topics (Similar to FCC).
 * [Code School](https://www.codeschool.com) - Mostly paid courses on many different coding topics.
+* [Egghead](https://egghead.io/) - Mostly paid ($200/yr) with some free content. Quick video tutorials on a variety of topics. New paid content is often availble for free for the first few days.
 * [Pluralsight](https://www.pluralsight.com) - Paid ($30/mo) professional quality videos on all manner of coding and tech topics. Used in industry for coders to stay current.
 * [Treehouse](https://teamtreehouse.com/) - Paid ($25/mo) professional quality videos with online IDE support to learn various coding topics.
