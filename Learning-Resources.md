@@ -23,6 +23,9 @@ Check out the training and general learning resources below to accelerate your l
 * [Styling a Modal](https://css-tricks.com/considerations-styling-modal/) - How to style modal overlays.
 * [A More Modern Scale for Web Typography](http://typecast.com/blog/a-more-modern-scale-for-web-typography) - Article explaining how to size your font appropriately for all devices.
 
+### Design
+* [Colors on the Web](http://www.colorsontheweb.com/) - Short and basic introduction to color theory and choosing color palettes.
+
 ### Git
 * [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/) - A must read for git commits.
 * [Basic Git Commands](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html) - Cheat sheet for git commands.
