@@ -1,5 +1,8 @@
 # Welcome to the West Houston FCC Meetup wiki!
 
+### [Focus Sessions](https://github.com/joshuadavidson/West-Houston-FCC-Meetup/wiki/Focus-Sessions)
+A running list of Focus Sessions and links to supporting material.
+
 ### [Tools of the Trade](https://github.com/joshuadavidson/West-Houston-FCC-Meetup/wiki/Tools-of-the-Trade)
 Come here for links to tools that make coding easier. Everything from color pickers, cubic bezier calculators, image compressors and more.
 
